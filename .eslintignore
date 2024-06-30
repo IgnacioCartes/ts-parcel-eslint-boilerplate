@@ -1,0 +1,6 @@
+build/**
+coverage/**
+local/**
+node_modules/**
+**.js
+!.eslintrc.js

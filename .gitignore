@@ -1,0 +1,14 @@
+# Logs
+*.log
+
+# Node modules
+node_modules
+
+# Local files
+local
+
+# Parcel build
+dist
+
+# Parcel Cache
+.parcel-cache

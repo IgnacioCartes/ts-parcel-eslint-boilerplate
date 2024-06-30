@@ -1,0 +1,17 @@
+{
+  "name": "generator-ts-parcel-eslint",
+  "version": "0.1.0",
+  "main": "index.js",
+  "keywords": [
+    "yeoman-generator",
+    "parcel",
+    "eslint",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "Simple parcel web app with eslint",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
