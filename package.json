@@ -1,16 +1,19 @@
 {
-  "name": "generator-ts-parcel-eslint",
+  "name": "ts-parcel-eslint-boilerplate",
   "version": "0.1.0",
-  "main": "index.js",
+  "source": "src/index.html",
   "keywords": [
-    "yeoman-generator",
     "parcel",
     "eslint",
     "typescript"
   ],
-  "author": "",
+  "author": "Ignacio Cartes <ignacio.cartes.w@gmail.com>",
   "license": "ISC",
-  "description": "Simple parcel web app with eslint",
+  "description": "Simple parcel web app with eslint boilerplate",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
   "devDependencies": {
     "parcel": "^2.12.0"
   }
